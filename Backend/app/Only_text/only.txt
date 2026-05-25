@@ -1,0 +1,46 @@
+Safety Observation Report
+
+Unit Name: Angul
+Department: Coke Oven
+Visited Section: Mechanical
+
+Observer Name: Ritik Sharma
+Duration: 45 Minutes
+
+Date: 24 May 2026
+Shift: Morning Shift
+
+Unsafe oil leakage observed near hydraulic pump section.
+Loose electrical wiring found near machine control panel.
+Water accumulation detected near operational pathway.
+Workers were not wearing proper PPE kits.
+Emergency exit area partially blocked with materials.
+High temperature observed near furnace chamber.
+Safety warning sign missing in restricted area.
+Machine guard found damaged during inspection.
+Poor housekeeping observed around maintenance zone.
+Fire extinguisher pressure gauge found in red zone.
+
+Risk Type: Oil Leakage & Electrical Hazard
+
+Immediate corrective action was instructed to maintenance team.
+Supervisor informed regarding unsafe working conditions.
+Area temporarily barricaded for safety control.
+
+
+
+
+Safety Observation Report
+
+Unit Name: Angul
+Department: Coke Oven
+Visited Section: Mechanical
+
+Observer Name: Ritik Sharma
+Duration: 45 Minutes
+
+Unsafe oil leakage observed near hydraulic pump.
+Loose electrical wiring found near machine panel.
+Workers were not wearing proper PPE kits.
+
+Risk Type: Oil Leakage & Electrical Hazard

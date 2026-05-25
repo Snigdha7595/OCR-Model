@@ -1,0 +1,52 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Uploads (user files)
+uploads/
+*.tmp
+
+# Database files (if any local db used)
+*.sqlite3
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+.coverage
+htmlcov/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mypy
+.mypy_cache/
+
+# Node (if frontend inside repo)
+node_modules/
+.next/
+
+# Build
+dist/
+build/

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+easyocr
+pdfplumber
+python-docx
+opencv-python
+numpy
+pillow
+requests
+pydantic
+python-dotenv
+pytesseract
+pymupdf
